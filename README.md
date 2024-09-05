@@ -7,7 +7,7 @@ Já se perguntou se deveria levar um guarda-chuva amanhã? Com este código irem
 Para executar esse projeto de um clone no repositorio e o abra em sua ferramenta de notebooks favorita, instale as bibliotecas necessarias separadas em: requirements.txt e rode o arquivo ml_model.ipynb.
 
 Contato
-Nome: Michelli Patricia Luvison
-LinkdIn: https://www.linkedin.com/in/michelli-luvison-623649268/
-GitHub: https://github.com/MimiChechelli
-Portfolio: https://sites.google.com/view/michelli-luvison/p%C3%A1gina-inicial
+* Nome: Michelli Patricia Luvison
+* LinkdIn: https://www.linkedin.com/in/michelli-luvison-623649268/
+* GitHub: https://github.com/MimiChechelli
+* Portfolio: https://sites.google.com/view/michelli-luvison/p%C3%A1gina-inicial
