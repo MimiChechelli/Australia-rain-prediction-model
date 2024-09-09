@@ -8,6 +8,6 @@ Para executar esse projeto de um clone no repositorio e o abra em sua ferramenta
 
 Contato
 * Nome: Michelli Patricia Luvison
-* LinkdIn: https://www.linkedin.com/in/michelli-luvison-623649268/
+* LinkedIn: https://www.linkedin.com/in/michelli-luvison-623649268/
 * GitHub: https://github.com/MimiChechelli
 * Portfolio: https://sites.google.com/view/michelli-luvison/p%C3%A1gina-inicial
